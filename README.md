@@ -2,6 +2,9 @@
 
 FastAPI backend for a fitness/workout tracking app.
 
+- Project: https://roadmap.sh/projects/fitness-workout-tracker
+- Repo: https://github.com/trippusultan/fitness-workout-tracker
+
 ## Run
 
 ```bash
